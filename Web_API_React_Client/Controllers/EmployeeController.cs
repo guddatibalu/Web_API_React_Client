@@ -17,8 +17,8 @@ namespace Web_API_React_Client.Controllers
         {
             List<Employee> empList = new List<Employee>
             {
-                new Employee{Id=101, Name="Balakrishna guddati", Location="Hyderabad",Salary=90000},
-                 new Employee{Id=102, Name="Rama Raju", Location="Hyderabad",Salary=90000},
+                new Employee{Id=101, Name="Balakrishna guddati T", Location="Hyderabad",Salary=90000},
+                 new Employee{Id=102, Name="Rama Raju M", Location="Hyderabad",Salary=90000},
                   new Employee{Id=103, Name="raju", Location="Hyderabad",Salary=90000},
                    new Employee{Id=104, Name="akshay", Location="Hyderabad",Salary=90000},
                     new Employee{Id=105, Name="krishna", Location="Hyderabad",Salary=90000},
